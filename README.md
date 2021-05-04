@@ -1,4 +1,23 @@
-### Hi there 👋
+# Hi 👋, my name is Steff
+### and I'm a Fullstack Developer with my main interest beeing NodeJS and a passion for IT-Security.
+
+🔭 I’m currently working on:
+- [Kyuron - A Discord Bot](https://github.com/SteffTek/Kyuron-Bot)
+- Virtual Playground - A social meeting plattform
+- [Thorben - Utility Bot for my Discord](https://github.com/SteffTek/Thorben)
+- [Planet.js - Generate 2D Planets in NodeJS](https://github.com/SteffTek/planet.js)
+
+🌱 I’m currently learning:
+- How to ignore meetings while working to be more efficient.
+
+📫 How to reach me:
+- Discord: **SteffTek#3664**
+- Twitter: [@unHoly_ger](https://twitter.com/unHoly_ger/)
+- Website (German) [https://stefftek.de/](https://stefftek.de)
+###### You can contact me in German (native language) or English (C2-Level).
+
+<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">C#, Java, PHP, JS, NodeJS, Batch, VB, VBA, Lua, Python, Docker, K8S, DiscordJS/PY/JDA, TypeScript, Express, Apache</h3>
 
 <!--
 **SteffTek/SteffTek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
