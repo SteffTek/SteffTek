@@ -18,6 +18,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <h3 align="center">C#, Java, PHP, JS, NodeJS, Batch, VB, VBA, Lua, Python, Docker, K8S, DiscordJS/PY/JDA, TypeScript, Express, Apache</h3>
+<h5 align="center">To be honest, at work I'm known for my deep knowlegde of like... everything I guess? Just hit me up!</h5>
 
 📈 Weird statistics:
 
