@@ -19,6 +19,12 @@
 <h3 align="center">Languages and Tools:</h3>
 <h3 align="center">C#, Java, PHP, JS, NodeJS, Batch, VB, VBA, Lua, Python, Docker, K8S, DiscordJS/PY/JDA, TypeScript, Express, Apache</h3>
 
+📈 Weird statistics:
+
+[![SteffTek's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteffTek&show_icons=true&theme=radical)](https://github.com/SteffTek/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteffTek&show_icons=true&theme=radical)](https://github.com/SteffTek/github-readme-stats)
+
 <!--
 **SteffTek/SteffTek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
