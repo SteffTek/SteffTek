@@ -6,6 +6,7 @@
 - Virtual Playground - A social meeting plattform
 - [Thorben - Utility Bot for my Discord](https://github.com/SteffTek/Thorben)
 - [Planet.js - Generate 2D Planets in NodeJS](https://github.com/SteffTek/planet.js)
+- [Tick.js - Execute Functions every Tick](https://github.com/SteffTek/tick.js)
 
 🌱 I’m currently learning:
 - How to ignore meetings while working to be more efficient.
