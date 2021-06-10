@@ -2,11 +2,12 @@
 ### and I'm a Fullstack Developer with my main interest beeing NodeJS and a passion for IT-Security.
 
 🔭 I’m currently working on:
-- [Kyuron - A Discord Bot](https://github.com/SteffTek/Kyuron-Bot)
-- Virtual Playground - A social meeting plattform
-- [Thorben - Utility Bot for my Discord](https://github.com/SteffTek/Thorben)
-- [Planet.js - Generate 2D Planets in NodeJS](https://github.com/SteffTek/planet.js)
-- [Tick.js - Execute Functions every Tick](https://github.com/SteffTek/tick.js)
+- [**Kyuron** - A Discord Bot](https://github.com/SteffTek/Kyuron-Bot)
+- **Virtual Playground** - A social meeting plattform
+- [**Rainbow Canvas** - A fun place to draw pixels!](https://github.com/SteffTek/Rainbow-Canvas)
+- [**Thorben** - Utility Bot for my Discord](https://github.com/SteffTek/Thorben)
+- [**Planet.js** - Generate 2D Planets in NodeJS](https://github.com/SteffTek/planet.js)
+- [**Tick.js** - Execute Functions every Tick](https://github.com/SteffTek/tick.js)
 
 🌱 I’m currently learning:
 - How to ignore meetings while working to be more efficient.
